@@ -10,7 +10,7 @@ It highlights the importance of securing authentication mechanisms and implement
 
 ## Simulated Incident
 
-The lab simulates a brute-force attack involving repeated SSH authentication attempts from a single source IP, leading to unauthorized access.
+The lab simulates a brute-force attack involving repeated SSH authentication attempts, leading to unauthorized access.
 
 The attack is detected through log analysis and mitigated using automated blocking mechanisms and system hardening techniques.
 
