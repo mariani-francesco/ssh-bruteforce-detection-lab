@@ -41,18 +41,18 @@ Detailed technical steps and evidence are available in the `phases/` directory.
 
 ### Network Configuration
 
-* NAT (internet access)  
-* Host-Only network (internal communication between machines)  
+* NAT (for internet access)  
+* Host-Only network (for internal communication between machines)  
 
 ---
 
 ## What You Will Find in `phases/`
 
 * Step-by-step attack simulation  
-* Log analysis and evidence of brute-force activity  
+* Log analysis and evidence of the brute-force activity  
 * Detection using Fail2Ban  
-* System hardening configuration  
-* Screenshots and validation of results  
+* System hardening configuration
+* Screenshots and validation of results
 
 ---
 
